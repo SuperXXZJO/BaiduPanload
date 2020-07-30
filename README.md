@@ -20,5 +20,5 @@
 
 ## 接口文档
 
-https://web.postman.co/collections/9526402-0dc43f04-22df-4fa7-970c-3505f2dede81?version=latest&workspace=9bcaa16f-12d6-4fa9-85b7-1ba45311bc3c
+https://documenter.getpostman.com/view/9526402/T1DteF8q?version=latest
 
